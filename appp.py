@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SbaBoPUO8FNY_PihSpRMVbX9ooVpS8xl
 """
 
-!pip install python-dotenv openai streamlit
+
 
 from openai import OpenAI
 import os
